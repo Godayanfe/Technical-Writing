@@ -15,12 +15,13 @@ The target audience is mainly beginner developers, students learning programming
 ## Table of Contents
 
 1. Introduction to GitHub
-2. Creating a GitHub Account
-3. Creating a Repository
-4. Uploading or Pushing a Project
-5. Making Changes to Files
-6. Tracking Changes Using Commits
-7. Creating and Using Branches
-8. Working on Different Versions of a Project
-9. Collaborating With Other Developers
-10. Conclusion
+2. Git Vs Github
+3. Creating a GitHub Account
+4. Creating a Repository
+5. Uploading or Pushing a Project
+6. Making Changes to Files
+7. Tracking Changes Using Commits
+8. Creating and Using Branches
+9. Working on Different Versions of a Project
+10. Collaborating With Other Developers
+11. Conclusion
