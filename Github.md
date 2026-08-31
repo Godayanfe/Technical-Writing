@@ -13,4 +13,4 @@ Git is a software application installed on your computer that saves and tracks t
 
 GitHub, on the other hand, is a cloud platform built on top of Git for storing and sharing that code online. If Git is the camera recording locally, GitHub is the cloud where that footage gets uploaded so others can view and work with it. This is why most teams prefer GitHub over using Git alone — it adds a visual layer that makes teamwork easier. It gives everyone a central hub to push and pull updates from, introduces Pull Requests so teammates can review and comment on code before it's merged, and includes built-in project management tools for tracking bugs, tasks, and team discussions.
 
-![Git Vs Github Icon]((https://share.google/8r2ONvwzGmG7Pr27Z))
+![Git Vs Github Icon](blog-Git-vs-github.png)
