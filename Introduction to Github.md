@@ -2,7 +2,7 @@
 
 GitHub is like cloud storage where you store, edit, and deploy your code.
 
-A simpler way to picture it: imagine Google Drive — but instead of just storing documents, it also:
+A simpler way to picture it: imagine Google Drive, but instead of just storing documents, it also:
 
 - **Keeps a full history** of every change ever made, so nothing is ever truly lost
 - **Lets a whole team** edit, review, and build on the same project at the same time
@@ -20,6 +20,6 @@ It doesn't only help you keep and manage your code. It allows you to collaborate
 
 In short, GitHub is a multipurpose platform that supports the entire lifecycle of building software — from writing the first line of code, through testing and reviewing changes, all the way to deploying the finished product for real users.
 
-Because of this, GitHub has become the standard place where individual developers showcase personal projects, and where teams — small or large — coordinate their work without needing to be in the same room, or even the same time zone.
+Because of this, GitHub has become the standard place where individual developers showcase personal projects, and where teams (small or large)  coordinate their work without needing to be in the same room, or even the same time zone.
 
 Understanding GitHub properly starts with understanding the tool it's built on top of: **Git**. That's what the next section breaks down.
