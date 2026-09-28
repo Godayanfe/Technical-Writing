@@ -31,3 +31,5 @@ This is why most teams prefer using GitHub over relying on Git alone. GitHub add
 ## Putting It Together
 
 A helpful way to remember the difference: **Git is the tool, GitHub is the platform.** Git does the actual work of tracking changes on your machine; GitHub takes that tracked history and makes it accessible, reviewable, and shareable with anyone else working on the project — whether that's one collaborator or an entire team spread across different locations.
+
+![Git vs GitHub diagram](blog-Git-vs-github.png)
