@@ -6,7 +6,7 @@ Now that you understand what GitHub is and how it differs from Git, it's time to
  
 Open your browser and go to **https://github.com**
 
-![Github Home Page](Github Home Page.png)
+![Github Home Page](GithubHomePage.png)
 
  
 The moment the page loads, you'll land on GitHub's homepage. It's a clean, dark-themed page with a bold headline welcoming you in — something along the lines of *"The future of building happens together."* Don't worry about the marketing language for now; what matters is what's sitting at the top right corner of that page.
@@ -29,6 +29,8 @@ On the left-hand side of this page, GitHub gives you a preview of what you're si
 - **Automated workflows**, powered by GitHub Actions, to save time on repetitive tasks
 - **Community support**, connecting you with developers from all over the world
 It's worth reading through this list once, just so you know what you're getting — but don't get distracted. Your actual attention should be on the right-hand side of the page, where the sign-up form lives.
+
+![Github Home Page](GithubSignupPage.png)
  
 ## Step 3: Fill in Your Details
  
